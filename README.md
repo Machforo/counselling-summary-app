@@ -2,6 +2,9 @@
 
 This Streamlit app summarizes a career counseling chat transcript and generates a personalized follow-up email using the **Groq `llama-3.1-8b-instant` model** and LangChain. The app optionally allows sending the email via **MailSlurp** or a **mock SMTP** method for testing.
 
+## Reference Video : 
+
+https://drive.google.com/file/d/13_m9bVt3BRjzbWYIWeMI2B9EoNl3_Hm8/view?usp=sharing
 ---
 
 ## ✨ Features
